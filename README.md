@@ -6,7 +6,7 @@ Run entire notebook to scrape the latest characters list, do note for the py req
 
 Enjoy!
 
-Related Links for story-tellers:
-https://script.bloodontheclocktower.com/
-https://bloodontheclocktower.com/custom-scripts
-https://spudomatic.com/create/
+Related Links for story-tellers: \n
+https://script.bloodontheclocktower.com/ \n
+https://bloodontheclocktower.com/custom-scripts \n
+https://spudomatic.com/create/ \n
